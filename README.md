@@ -12,18 +12,23 @@
 
 ### 🏃 About
 
-- I build tools where **sport science meets code** — jump training, training load, habits.
+- I build tools where **sport science meets code** — right now: an app to get me to my first dunk.
 - My workflow is **AI-native ("vibe coding")**: I design the idea, AI agents help me build it, I ship and iterate.
 - Also exploring **AI in project management** and AI-powered decision apps.
 
-### 🚀 Featured Projects
+### 🔨 Currently Building
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**jump-attack**](https://github.com/Sam18069272581/jump-attack) | All-in-one jump training web app based on the force–velocity curve | TypeScript |
-| [**trackload**](https://github.com/Sam18069272581/trackload) | Training load monitor — ACWR via exponentially weighted moving average | HTML / JS |
-| [**metamystic**](https://github.com/Sam18069272581/metamystic) · [demo](https://metamystic.vercel.app) | AI decision platform with RAG and streaming chat | Next.js 15 · NestJS · pgvector |
-| [**smarthabitstrkr**](https://github.com/Sam18069272581/smarthabitstrkr) | Task & habit tracker with an API-first REST backend | Python |
+| [**jump-attack**](https://github.com/Sam18069272581/jump-attack) · [web app](https://sam18069272581.github.io/jump-attack/) | Jump training app: measures how far you are from the dunk line, finds your weak link (strength / reactivity / transfer), and plans 4-week training blocks | Expo · React Native · TypeScript |
+| [**ibkr-agent**](https://github.com/Sam18069272581/ibkr-agent) | AI agent for Interactive Brokers workflows | 🚧 WIP |
+| 🔒 **Exam-prep workbench** | A personal study workspace for exam preparation — private for now | — |
+
+### 🗂 Other Projects
+
+[**trackload**](https://github.com/Sam18069272581/trackload) — training load monitor (ACWR via EWMA) ·
+[**metamystic**](https://github.com/Sam18069272581/metamystic) — AI decision platform with RAG and streaming chat ([demo](https://metamystic.vercel.app)) ·
+[**smarthabitstrkr**](https://github.com/Sam18069272581/smarthabitstrkr) — task & habit tracker with an API-first REST backend
 
 ### 📊 Stats
 
